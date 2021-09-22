@@ -6,6 +6,8 @@ Obviously I have to swap out the GPU, I purchased and replaced it with the MSI R
 
 The config file is based on: https://hackintosher.com/forums/thread/success-guide-opencore-gigabyte-z490-gaming-x-i7-10700-monterey-big-sur-catalina.10745/
 
+Running on Opencore 0.73
+
 What is working?
 
 - BigSur 10.6
