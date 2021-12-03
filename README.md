@@ -4,9 +4,9 @@ Glad to have success on the install, I purchased this Alienware Aurora R11 with 
 
 Obviously I have to swap out the GPU, I purchased and replaced it with the MSI RX5700XT.
 
-Updated Second Version
+Second Version:
 The config is based on: https://github.com/michaelsunzy/Hackintosh-Alienware-R11-OpenCore-i9-10900KF-Z490
-- Made Updates to Supper Multiple Monitors with mt video card (6900xt)
+- Made Updates to Support Multiple Monitors with mt video card (6900xt)
 - Try to change your BIOS settings to this: https://www.reddit.com/r/hackintosh/comments/qwxddn/alienware_aurora_r11_hackintosh/
 - Stable enough for daily use now, it is on BigSur.
 
