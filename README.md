@@ -1,5 +1,7 @@
 # Alienware-Aurora-R11-OSX-Install-Opencore
 
+2023 Aug - Updated to Ventura! Release posted.
+
 Glad to have success on the install, I purchased this Alienware Aurora R11 with Intel i7 10700 with RTX 2070 Super.
 
 Obviously I have to swap out the GPU, I purchased and replaced it with the MSI RX5700XT (Now changed to 6900xt).
