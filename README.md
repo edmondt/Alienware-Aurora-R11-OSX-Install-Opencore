@@ -2,6 +2,9 @@
 
 2023 Aug - Updated to Ventura! Release posted.
 
+You might need to do a few reboots for the Upgrade, and I wouldn't recommend a fresh install:
+https://www.reddit.com/r/hackintosh/comments/15z5w1m/alienware_aurora_r11_upgraded_to_ventura_working/
+
 Glad to have success on the install, I purchased this Alienware Aurora R11 with Intel i7 10700 with RTX 2070 Super.
 
 Obviously I have to swap out the GPU, I purchased and replaced it with the MSI RX5700XT (Now changed to 6900xt).
