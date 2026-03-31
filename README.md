@@ -1,5 +1,11 @@
 # Alienware-Aurora-R11-OSX-Install-Opencore
 
+2026 April - Updated to Tahoe 26.4! USB Mapping reworked, thanks to this post: 
+https://www.tonymacx86.com/threads/howto-macos-26-tahoe-with-opencore-1-0-5-z390-i9-9900-rx-6600-xt.332345/
+I will be posting a release later, it needs to be cleaned up first, but so far it is running fine except:
+
+No Bluetooth, No Sleep.
+
 2023 Aug - Updated to Ventura! Release posted.
 
 You might need to do a few reboots for the Upgrade, and I wouldn't recommend a fresh install:
